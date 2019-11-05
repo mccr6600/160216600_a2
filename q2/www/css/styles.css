@@ -1,0 +1,28 @@
+body {
+	background:#00003b;
+	font-family: "Lucida Console", Monaco monospace;
+	font-size: 18px;
+	font-weight: normal;
+	color: white;
+}
+
+h1 { 
+	color: 	#33003b;
+	background: #cc003b;
+	padding: 10px;
+} 
+
+a {
+	color: #cc003b;
+}
+
+p {
+	background: #99003b;
+	color: white;
+	padding: 15px;
+	font size: 16px;
+} 
+.plink {
+	color: white;
+}
+
